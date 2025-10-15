@@ -8,13 +8,13 @@ Welcome to my introductory GitHub repository! This space is a quick overview of 
 
 ## 🚀 About Me
 
-I'm a passionate Unity game developer from Pakistan with hands-on experience building 2D, 3D, hyper-casual, and simulation games. I love blending storytelling, gameplay mechanics, and code to create interactive experiences that players remember.
+Unity Game Developer passionate about bringing cultural authenticity to games. Currently pursuing BSCS at Lahore Garrison University. As Game Development Lead at GDGOC and Unity Developer at Euphoria XR, I've developed 10+ commercial mobile games. Now working on Tea Stall Simulator—a Final Year Project focused on representing Pakistani culture in the gaming industry. Aspiring to create games that tell authentic stories and showcase diverse cultures on the global stage.
 
 ### 🔧 Tech Stack
 
 - **Game Engine:** Unity
 - **Languages:** C#
-- **Tools:** Visual Studio, Git
+- **Tools:** Visual Studio, GitHub
 
 ---
 
